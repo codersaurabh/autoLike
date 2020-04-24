@@ -2,7 +2,7 @@
 
 setInterval(function () {
   var desktopLikeButton = document.getElementsByClassName(
-    ".doubletake-like-button"
+    "doubletake-like-button"
   )[0];
   var mobileLikeButton = document.getElementsByClassName(
     "quickmatch-button-like"
@@ -16,7 +16,7 @@ setInterval(function () {
 
 setInterval(function () {
   var desktopLikeButton = document.getElementsByClassName(
-    ".doubletake-like-button"
+    "doubletake-like-button"
   )[0];
   var desktopUnlikeButton = document.getElementsByClassName(
     "doubletake-pass-button"
